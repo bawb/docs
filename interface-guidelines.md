@@ -17,10 +17,13 @@ Y              | yellow  |  -                 |<img src=”http://i.imgur.com/Iz
 A              | red     |  back/cancel       |<img src=”http://i.imgur.com/cBffscc.png”>
 The OUYA Button| black   |  pause             |<img src=”http://i.imgur.com/0FAl9Io.png”>
 
+### Button Naming
+
 Please use the naming conventions below when referring to the controller buttons in help screens for your game:
+
 ```text
 O, U, Y, A
-System (the home button)
+The OUYA Button
 D-Pad 
 LS (the left joystick movement)
 L1 (the left bumper)
@@ -30,7 +33,7 @@ RS
 R1
 R2
 R3
-Touchpad (not "Trackpad")
+Touchpad (*not* "Trackpad")
 ```
 
 ### TV Safe Area
