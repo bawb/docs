@@ -84,4 +84,12 @@ Unlike on a mobile device where the user may have the sound muted, or be wearing
 
 Leave at least a 10% margin between your UI elements and the edge of the screen. This will help ensure that your content is visible across a wide range of TVs and settings.
 
-For further tips and advice, read [Google's Designing for TV Guide](https://developers.google.com/tv/web/docs/optimization_guide).
+At 1080p, resolution is 1920x1080, so important game elements should be kept inside a centered box of the size 1728x972. That's 96 pixels of margin on the left and right sides, and 54 pixels of margin on the top and bottom.
+
+At 720p, resolution is 1280x720, so important game elements should be kept inside a centered box of the size 1152x648. That's 64 pixels of margin on the left and right sides, and 36 pixels of margin on the top and bottom.
+
+### Testing Environment
+
+Many of the above suggestions become obvious when playing on an actual OUYA on a television. If possible, test your game on an OUYA on a typical consumer television set, not a computer monitor. If you can test with multiple TVs, even better, as different manufactures perform different corrections to the input image.
+
+If your licensing allows for it, consider using the OUYA community to help test your game. Not only will you generate buzz earlier in the development process, but you may gain valuable insight into how users experience your game.
