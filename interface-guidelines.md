@@ -4,13 +4,18 @@ While the OUYA platform is as open as possible, we realize that some semblance o
 
 Whether you’re writing a new game exclusively for OUYA, or porting an existing one, your users will thank you if you take the time to engineer a seamless and intuitive experience!
 
-```text
-OUYA    Color    Default Function
-O       green    select
-U       blue     -
-Y       yellow   -
-A       red      back/cancel
-```
+
+### Button Functions
+
+We recommend the button mappings below. These mappings are legit. Seriously, we’ve explored all types of mappings and these tend to be the most intuitive.
+
+OUYA           |  Color  |  Function          |  Image
+---------------|---------|--------------------|----------
+O              | green   |  select            |<img src=”http://i.imgur.com/Izzg6f9.png”>
+U              | blue    |  -                 |<img src=”http://i.imgur.com/cGndvxa.png”>
+Y              | yellow  |  -                 |<img src=”http://i.imgur.com/Izzg6f9.png”>
+A              | red     |  back/cancel       |<img src=”http://i.imgur.com/cBffscc.png”>
+The OUYA Button| black   |  pause             |<img src=”http://i.imgur.com/0FAl9Io.png”>
 
 Please use the naming conventions below when referring to the controller buttons in help screens for your game:
 ```text
